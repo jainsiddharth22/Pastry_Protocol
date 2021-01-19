@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Pastry": {
+      "commandName": "Project",
+      "commandLineArgs": "30 10"
+    }
+  }
+}
